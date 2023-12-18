@@ -1,0 +1,46 @@
+Name: requests
+Version: 2.28.1
+Summary: Python HTTP for Humans.
+Home-page: https://requests.readthedocs.io
+Author: Kenneth Reitz
+Author-email: me@kennethreitz.org
+License: Apache 2.0
+Location: D:\anaconda3new\envs\deep_learning\Lib\site-packages
+Requires: certifi, charset-normalizer, idna, urllib3
+Required-by: anaconda-catalogs, anaconda-client, anaconda-project, conda-repo-cli, conda_package_streaming, cookiecutter, datasets, datashader, etelemetry, huggingface-hub, intake, jupyterlab_server, panel, pooch, pyxnat, r2, requests-file, requests-toolbelt, Sphinx, stata-kernel, tldextract, torchvision, transformers
+
+
+Name: PyPDF2
+Version: 3.0.1
+Summary: A pure-python PDF library capable of splitting, merging, cropping, and transforming PDF files
+Home-page: 
+Author: 
+Author-email: Mathieu Fenniak <biziqe@mathieu.fenniak.net>
+License: 
+Location: D:\anaconda3new\envs\deep_learning\Lib\site-packages
+Requires: 
+Required-by: 
+
+
+Name: pdf2image
+Version: 1.16.3
+Summary: A wrapper around the pdftoppm and pdftocairo command line tools to convert PDF to a PIL Image list.
+Home-page: https://github.com/Belval/pdf2image
+Author: Edouard Belval
+Author-email: edouard@belval.org
+License: MIT
+Location: D:\anaconda3new\envs\deep_learning\Lib\site-packages
+Requires: pillow
+Required-by: 
+
+
+Name: pytesseract
+Version: 0.3.10
+Summary: Python-tesseract is a python wrapper for Google's Tesseract-OCR
+Home-page: https://github.com/madmaze/pytesseract
+Author: Samuel Hoffstaetter
+Author-email: samuel@hoffstaetter.com
+License: Apache License 2.0
+Location: D:\anaconda3new\envs\deep_learning\Lib\site-packages
+Requires: packaging, Pillow
+Required-by: 
